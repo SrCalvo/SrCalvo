@@ -9,10 +9,10 @@
 
 ## ⚡ Sobre mí
 
-- 🎮 **Gamer apasionado** - Especialmente de la saga Call of Duty: Black Ops
+- 🎮 **Enfermo del COD** - Especialmente de la saga Call of Duty: Black Ops
 - ⚡ **Fan de Pikachu** - La electricidad corre por mis venas
 - 🦇 **Admirador de DC Comics** - Batman es mi héroe favorito
-- 🎵 **K-Pop enthusiast** - BlackPink y Twice en mi playlist diaria
+- 🎵 **UN BLINKONCE** - BlackPink y Twice en mi playlist diaria
 - 💻 **Desarrollador en crecimiento** - Siempre aprendiendo nuevas tecnologías
 
 ## 🛠️ Tecnologías y Herramientas
