@@ -24,10 +24,10 @@
 ## 🎵 Mi Playlist de Coding
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1?si=K3b3p4fGTi2X-7Kk4p3p7g" target="_blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA?si=afcf3fd37cd64cec" target="_blank">
     <img src="https://img.shields.io/badge/BlackPink-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="BlackPink" />
   </a>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq?si=JnZ4p4fGTi2X-7Kk4p3p7g" target="_blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq?si=JnZ4p4fGTi2X-7Kk4p3p7g](https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m?si=3abd244f8ac24e6a" target="_blank">
     <img src="https://img.shields.io/badge/Twice-9B59B6?style=for-the-badge&logo=spotify&logoColor=white" alt="Twice" />
   </a>
 </p>
@@ -55,15 +55,12 @@
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="j.jazael11@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/SrCalvo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+<a href="https://www.instagram.com/jazael_ontanon" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
 </p>
 
 ---
