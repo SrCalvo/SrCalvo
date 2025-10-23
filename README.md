@@ -27,7 +27,7 @@
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA?si=afcf3fd37cd64cec" target="_blank">
     <img src="https://img.shields.io/badge/BlackPink-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="BlackPink" />
   </a>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq?si=JnZ4p4fGTi2X-7Kk4p3p7g](https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m?si=3abd244f8ac24e6a" target="_blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m?si=8f03dd79c5cb4e3e" target="_blank">
     <img src="https://img.shields.io/badge/Twice-9B59B6?style=for-the-badge&logo=spotify&logoColor=white" alt="Twice" />
   </a>
 </p>
