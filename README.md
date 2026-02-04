@@ -14,7 +14,6 @@
 💻 Desarrollador en constante crecimiento  
 🐧 Defensor del **software libre** y usuario de **Linux**  
 ⚙️ Apasionado por la **arquitectura de computadoras** (ARM, Assembly)  
-🎮 Gamer (Call of Duty: Black Ops)  
 🎵 BLINK + ONCE sin miedo al éxito  
 
 > 🧠 *“Toda la bondad y toda la maldad está en nosotros.”*  
@@ -51,29 +50,19 @@
 
 ---
 
-## 🎧 Coding Vibes (NEON MODE)
+## 💖 Coding Vibes | Identidad Visual
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA" target="_blank">
-    <img src="https://img.shields.io/badge/BLACKPINK-FF5FD7?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m" target="_blank">
-    <img src="https://img.shields.io/badge/TWICE-9B59FF?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎮 Gamer Side — Black Ops Zombies
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="600" alt="Black Ops Zombies" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pnZWRiMXBhZjFwOGRwNmJuN3hlbHZ0eXF5djV5NG0wc3d4ZmZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60NMeLohQvljozKDgv/giphy.gif" width="260" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" />
 </p>
 
 <p align="center">
-  <b>Call of Duty: Black Ops — Zombies Mode</b><br>
-  <i>No sobrevives… resistes.</i>
+  <i>TWICE ✦ BLACKPINK — inspiración, ritmo y constancia</i>
 </p>
+
+> 💡 *Aquí después puedes envolver cada GIF con un link a GitHub, playlist o proyecto.*
 
 ---
 
