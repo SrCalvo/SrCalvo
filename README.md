@@ -1,8 +1,8 @@
-<h1 align="center">Hola, soy Jhonatan Jazael Ontañon Ortiz 👋</h1>
-<h3 align="center">A.K.A <b>SrCalvo</b> | Estudiante de Ingeniería en Sistemas 💻</h3>
+<h1 align="center">✨ Hola, soy Jhonatan Jazael Ontañon Ortiz ✨</h1>
+<h3 align="center">AKA <b>SrCalvo</b> | Estudiante de Ingeniería en Sistemas 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Desarrollador+en+formación;Ingeniería+en+Sistemas+Computacionales;BLINKONCE+certificado;Gamer+de+corazón;Curioso+por+naturaleza" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FF5FD7&center=true&vCenter=true&width=780&lines=Ingeniería+en+Sistemas+Computacionales;Desarrollo+de+Software+con+conciencia;BLINK+%2B+ONCE+de+corazón;ARM%2C+Assembly+y+arquitectura+desde+cero;Software+Libre+%7C+Linux+%7C+Open+Source" />
 </p>
 
 ---
@@ -10,61 +10,73 @@
 ## 🌙 Sobre mí
 
 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**  
-🧠 Formación previa como **P.T.B. en Informática**  
-💻 Apasionado por el desarrollo y la tecnología  
-🎮 Gamer (Call of Duty: Black Ops es religión)  
-🎵 BLINK + ONCE sin vergüenza alguna  
-⚡ Pikachu fan & 🦇 Batman believer  
+🧠 Formación como **P.T.B. en Informática**  
+💻 Desarrollador en constante crecimiento  
+🐧 Defensor del **software libre** y usuario de **Linux**  
+⚙️ Apasionado por la **arquitectura de computadoras** (ARM, Assembly)  
+🎮 Gamer (Call of Duty: Black Ops)  
+🎵 BLINK + ONCE sin miedo al éxito  
 
-> *“Aprender tecnología es mi forma de entender el mundo.”*
+> 🧠 *“Toda la bondad y toda la maldad está en nosotros.”*  
+> ⚔️ *“La mente necesita libros como una espada necesita filo.”* — Tyrion Lannister
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## ⚡ Tecnologías Principales
 
+### 🧱 Desarrollo & Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" />
+</p>
+
+### ⚙️ Sistemas & Bajo Nivel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=dark" />
 </p>
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 🚀 Actualmente aprendiendo
 
-- 📌 Arquitectura de computadoras (ARM)
-- 📌 Desarrollo web moderno
-- 📌 Software educativo y tecnologías de bajo costo
-- 📌 Open Source & filosofía del software libre
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,react&theme=dark" />
+</p>
+
+📌 Assembly (ARM y ensamblador en general)  
+📌 Funcionamiento interno del hardware  
+📌 Desarrollo educativo con tecnología de bajos recursos  
+📌 Open Source & filosofía GNU/Linux  
+
+📖 **Autor del libro:** *ARM desde Cero (en Español)*
 
 ---
 
-## 🎵 Coding Vibes
+## 🎧 Coding Vibes (NEON MODE)
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA" target="_blank">
-    <img src="https://img.shields.io/badge/BLACKPINK-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/BLACKPINK-FF5FD7?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m" target="_blank">
-    <img src="https://img.shields.io/badge/TWICE-9B59B6?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/TWICE-9B59FF?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 Gamer Side
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrCalvo&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrCalvo&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/CALL_OF_DUTY_BLACK_OPS-000000?style=for-the-badge&logo=callofduty&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🌐 Idiomas
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrCalvo&theme=radical" />
-</p>
+- 🇪🇸 Español — Nativo  
+- 🇺🇸 English — Básico técnico  
+- 🇧🇷 Português — Básico  
 
 ---
 
@@ -72,19 +84,22 @@
 
 <p align="center">
   <a href="mailto:j.jazael11@hotmail.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Hotmail-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jazael_ontanon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-FF5FD7?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SrCalvo&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SrCalvo&color=ff5fd7&style=flat-square" />
 </p>
 
 <p align="center">
-  <i>Si algo te gustó, deja una ⭐ — se aprecia mucho 💜</i>
+  <i>Si algo de aquí te sirvió, deja una ⭐ — el conocimiento se comparte ✨</i>
 </p>
