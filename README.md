@@ -2,7 +2,7 @@
 <h3 align="center">AKA <b>SrCalvo</b> | Estudiante de Ingeniería en Sistemas 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FF5FD7&center=true&vCenter=true&width=780&lines=Ingeniería+en+Sistemas+Computacionales;Desarrollo+de+Software+con+conciencia;BLINK+%2B+ONCE+de+corazón;ARM%2C+Assembly+y+arquitectura+desde+cero;Software+Libre+%7C+Linux+%7C+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FF5FD7&center=true&vCenter=true&width=780&lines=Ingeniería+en+Sistemas+Computacionales;Desarrollo+de+Software+con+conciencia;BLINKONCE+de+corazón;ARM%2C+Assembly+y+arquitectura+desde+cero;Software+Libre+%7C+Linux+%7C+Open+Source" />
 </p>
 
 ---
