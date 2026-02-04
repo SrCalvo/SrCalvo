@@ -50,21 +50,49 @@
 
 ---
 
-## 💖 Coding Vibes | Identidad Visual
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pnZWRiMXBhZjFwOGRwNmJuN3hlbHZ0eXF5djV5NG0wc3d4ZmZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60NMeLohQvljozKDgv/giphy.gif" width="260" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" />
-</p>
-
-<p align="center">
-  <i>TWICE ✦ BLACKPINK — inspiración, ritmo y constancia</i>
-</p>
-
-> 💡 *Aquí después puedes envolver cada GIF con un link a GitHub, playlist o proyecto.*
-
 ---
+
+## 💫 Identidad Visual | Motion & Vibes
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg4cmRyb3JtMzN0N2I0czJpZHdsbXlidGhoaHI5Mm95cWowcXk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E78A0LiEuy7GDh8bC5/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/UymTBSTDMRNkm3TPPv/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/gM6DHguf1mOBg9mlkg/giphy.gif" width="160"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/zqFo6jzYhCUpCTHmDE/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/LpH3EDsumzkxOcApll/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/WcbCAtmbudr7IKwtze/giphy.gif" width="160"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/FGwDphI8Dg5SQ3hKgI/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/4w06UUSFbvDExUx4nO/giphy.gif" width="160"/>
+  <img src="https://media3.giphy.com/media/TOnusyyXPh4Jo6LDFU/giphy.gif" width="160"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/GVPtn0ooAe5Ry34wg0/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/jExhrrNaY8QJxlkFPT/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/UvOUGvO77HEmuiFXv9/giphy.gif" width="160"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/u0103FfnQ9jkBGzV7Z/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/cfBkMs3EEjbWp8GgoM/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/vFKI8HbZ0tjJDEkzjU/giphy.gif" width="160"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XJoq16NyVYoqbZHVUe/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/2DcuUycsOveqkn7rp6/giphy.gif" width="160"/>
+</p>
+
+<p align="center">
+  <i>K-Pop, energía visual y ritmo — parte de mi proceso creativo ✨</i>
+</p>
+
 
 ## 🌐 Idiomas
 
