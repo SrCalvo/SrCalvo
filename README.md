@@ -14,7 +14,7 @@
 💻 Desarrollador en constante crecimiento  
 🐧 Defensor del **software libre** y usuario de **Linux**  
 ⚙️ Apasionado por la **arquitectura de computadoras** (ARM, Assembly)  
-🎵 BLINK + ONCE sin miedo al éxito  
+🎵 BLINKONCE sin miedo al éxito  
 
 > 🧠 *“Toda la bondad y toda la maldad está en nosotros.”*  
 > ⚔️ *“La mente necesita libros como una espada necesita filo.”* — Tyrion Lannister
@@ -45,12 +45,6 @@
 📌 Funcionamiento interno del hardware  
 📌 Desarrollo educativo con tecnología de bajos recursos  
 📌 Open Source & filosofía GNU/Linux  
-
-📖 **Autor del libro:** *ARM desde Cero (en Español)*
-
----
-
----
 
 ## 💫 Identidad Visual | Motion & Vibes
 
@@ -111,7 +105,7 @@
   <a href="https://www.instagram.com/jazael_ontanon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF5FD7?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com" target="_blank">
+  <a href="https://www.youtube.com/@srcalvojazaelontanon6561" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
