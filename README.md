@@ -64,10 +64,15 @@
 
 ---
 
-## 🎮 Gamer Side
+## 🎮 Gamer Side — Black Ops Zombies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CALL_OF_DUTY_BLACK_OPS-000000?style=for-the-badge&logo=callofduty&logoColor=white" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="600" alt="Black Ops Zombies" />
+</p>
+
+<p align="center">
+  <b>Call of Duty: Black Ops — Zombies Mode</b><br>
+  <i>No sobrevives… resistes.</i>
 </p>
 
 ---
