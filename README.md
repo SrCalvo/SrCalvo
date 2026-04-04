@@ -1,8 +1,12 @@
 <h1 align="center">✨ Hola, soy Jhonatan Jazael Ontañon Ortiz ✨</h1>
-<h3 align="center">AKA <b>SrCalvo</b> | Estudiante de Ingeniería en Sistemas 💻</h3>
+<h3 align="center">💻 AKA <b>SrCalvo</b> | Ingeniería en Sistemas Computacionales</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FF5FD7&center=true&vCenter=true&width=780&lines=Ingeniería+en+Sistemas+Computacionales;Desarrollo+de+Software+con+conciencia;BLINKONCE+de+corazón;ARM%2C+Assembly+y+arquitectura+desde+cero;Software+Libre+%7C+Linux+%7C+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=FF5FD7&center=true&vCenter=true&width=800&lines=Desarrollo+con+conciencia+%F0%9F%A7%A0;Software+Libre+%7C+Linux+%7C+Open+Source;Aprendiendo+siempre%2C+creando+siempre;BLINKONCE+en+c%C3%B3digo+y+alma+%F0%9F%96%A4" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -11,24 +15,23 @@
 
 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**  
 🧠 Formación como **P.T.B. en Informática**  
-💻 Desarrollador en constante crecimiento  
-🐧 Defensor del **software libre** y usuario de **Linux**  
-⚙️ Apasionado por la **arquitectura de computadoras** (ARM, Assembly)  
-🎵 BLINKONCE sin miedo al éxito  
+💻 Desarrollador en evolución constante  
+🐧 Amante del **Software Libre** y usuario de **Linux**  
+🎵 **BLINKONCE** sin miedo al éxito  
 
 > 🧠 *“Toda la bondad y toda la maldad está en nosotros.”*  
-> ⚔️ *“La mente necesita libros como una espada necesita filo.”* — Tyrion Lannister
+> ⚔️ *“La mente necesita libros como una espada necesita filo.”*
 
 ---
 
-## ⚡ Tecnologías Principales
+## ⚡ Tecnologías
 
-### 🧱 Desarrollo & Bases de Datos
+### 🧱 Desarrollo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" />
 </p>
 
-### ⚙️ Sistemas & Bajo Nivel
+### ⚙️ Sistemas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=dark" />
 </p>
@@ -41,15 +44,29 @@
   <img src="https://skillicons.dev/icons?i=python,nodejs,react&theme=dark" />
 </p>
 
-📌 Assembly (ARM y ensamblador en general)  
-📌 Funcionamiento interno del hardware  
-📌 Desarrollo educativo con tecnología de bajos recursos  
-📌 Open Source & filosofía GNU/Linux  
+✨ Explorando nuevas formas de crear software útil  
+✨ Mejorando lógica, arquitectura y diseño  
+✨ Construyendo proyectos con propósito  
 
-## 💫 Identidad Visual | Motion & Vibes
+---
+
+## 📊 Stats (porque sí, el ego técnico importa 😎)
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg4cmRyb3JtMzN0N2I0czJpZHdsbXlidGhoaHI5Mm95cWowcXk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E78A0LiEuy7GDh8bC5/giphy.gif" width="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SrCalvo&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrCalvo&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrCalvo&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 💫 Vibes | Energía Creativa
+
+<p align="center">
+  <img src="https://media.giphy.com/media/E78A0LiEuy7GDh8bC5/giphy.gif" width="140"/>
   <img src="https://media.giphy.com/media/UymTBSTDMRNkm3TPPv/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/gM6DHguf1mOBg9mlkg/giphy.gif" width="100"/>
 </p>
@@ -61,37 +78,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FGwDphI8Dg5SQ3hKgI/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/4w06UUSFbvDExUx4nO/giphy.gif" width="100"/>
-  <img src="https://media3.giphy.com/media/TOnusyyXPh4Jo6LDFU/giphy.gif" width="100"/>
+  <i>K-Pop, ritmo y estética — parte de mi código interno ✨</i>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/GVPtn0ooAe5Ry34wg0/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/jExhrrNaY8QJxlkFPT/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/UvOUGvO77HEmuiFXv9/giphy.gif" width="100"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/u0103FfnQ9jkBGzV7Z/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/cfBkMs3EEjbWp8GgoM/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/vFKI8HbZ0tjJDEkzjU/giphy.gif" width="100"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/XJoq16NyVYoqbZHVUe/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/2DcuUycsOveqkn7rp6/giphy.gif" width="100"/>
-</p>
-
-<p align="center">
-  <i>K-Pop, energía visual y ritmo — parte de mi proceso creativo ✨</i>
-</p>
-
+---
 
 ## 🌐 Idiomas
 
-- 🇪🇸 Español — Nativo  
-- 🇺🇸 English — Básico técnico  
+- 🇲🇽 Español — Nativo  
+- 🇺🇸 English — Técnico  
 - 🇧🇷 Português — Básico  
 
 ---
@@ -117,5 +112,5 @@
 </p>
 
 <p align="center">
-  <i>Si algo de aquí te sirvió, deja una ⭐ — el conocimiento se comparte ✨</i>
+  ⭐ Si te gustó, deja una estrella — el conocimiento se comparte ⭐  
 </p>
