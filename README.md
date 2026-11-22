@@ -81,7 +81,7 @@ Uso diario **Arch Linux** y **Fedora**, con **Hyprland** como window manager en 
 
 ## `$ locale`
 
-| 🇪🇸 Español | 🇺🇸 English | 🇧🇷 Português |
+| 🇲🇽 Español | 🇺🇸 English | 🇧🇷 Português |
 | :---: | :---: | :---: |
 | Nativo | Básico técnico | Básico |
 
