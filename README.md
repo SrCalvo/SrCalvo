@@ -247,5 +247,5 @@ Uso diario de **Arch Linux** y **Fedora**, con **Hyprland** como window manager 
 <br>
 
 <div align="center">
-<sub>Hecho en 🇲🇽 · @SrCalvo</sub>
+<sub>Hecho en México 🇲🇽 · @SrCalvo</sub>
 </div>
