@@ -1,127 +1,163 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5FD7,100:0D1117&height=250&section=header&text=Bienvenido&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
 
-<h1 align="center">✨ Hola, soy Jhonatan Jazael Ontañon Ortiz ✨</h1>
-<h3 align="center">💻 AKA <b>SrCalvo</b> | Ingeniería en Sistemas Computacionales</h3>
+<!-- ============ HEADER CITY-POP (DARK/LIGHT) ============ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:1a1a2e&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:FFE5EC&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:FFE5EC&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=650&color=FF5FD7&center=true&vCenter=true&width=850&lines=Now+Playing+%E2%96%B6;TWICE+%E2%99%A1+BLACKPINK;Aespa+%E2%9C%A8+BABYMONSTER;K-Pop+Energy+in+Code+%F0%9F%8E%A7;Linux+%2B+Hyprland+%2B+Flow" />
-</p>
+<!-- ============ TYPING SVG ============ -->
+<a href="https://github.com/{USERNAME}">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Especialidad+en+Aplicaciones+M%C3%B3viles;Frontend+%7C+Angular+%26+React;Arch+Linux+%2B+Hyprland+%7C+City-Pop+Vibes;BLINK+%26+ONCE+%F0%9F%8E%A7" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+<!-- ============ PROFILE VIEWS ============ -->
+<img src="https://komarev.com/ghpvc/?username={USERNAME}&style=flat&color=F78CA0&label=profile+views" alt="profile views" />
 
----
-
-## 🌙 Sobre mí
-
-🎓 Estudiante de **Ingeniería en Sistemas Computacionales con especialidad en Aplicaciones móviles**  
-🧠 Formación como **P.T.B. en Informática**  
-💻 Desarrollador en evolución constante  
-🐧 Amante del **Software Libre** y usuario de **Linux**  
-🎵 **BLINK ONCE MONSTIE**  
-
-> 🧠 *“Toda la bondad y toda la maldad está en nosotros.”*  
-> ⚔️ *“La mente necesita libros como una espada necesita filo.”*  
-> 🌸 *“Aquellos que se aferran a vivir mueren, y aquellos que se aferran a morir viven.”*
+</div>
 
 ---
 
-## ⚡ Tecnologías
+<!-- ============ SNAKE ============ -->
+<div align="center">
 
-**Especializado en entornos web**  
-**Frontend**
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" alt="snake" />
+</picture>
 
-### 🧱 Desarrollo
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" />
-</p>
+</div>
 
-### ⚙️ Sistemas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=dark" />
-</p>
+---
+
+## `$ whoami`
+
+**🎓 Estudiante de Ingeniería en Sistemas Computacionales** con especialidad en **Aplicaciones Móviles**  
+**💻 AKA SrCalvo** — desarrollador en evolución constante  
+**🐧** Amante del **Software Libre** · usuario de **Arch Linux + Hyprland**  
+**🎵 BLINK & ONCE** — TWICE ♡ BLACKPINK
+
+> 🧠 *"Toda la bondad y toda la maldad está en nosotros."*  
+> ⚔️ *"La mente necesita libros como una espada necesita filo."*  
+> 🌸 *"Aquellos que se aferran a vivir mueren, y aquellos que se aferran a morir viven."*
+
+---
+
+## `$ cat tech-stack.yaml`
+
+<div align="center">
+
+<table border="1" cellpadding="14" bgcolor="#17171c">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>srcalvo:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ 🎨 frontend:</code><br><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular&theme=light" />
+        </picture><br>
+        <sub><code>HTML · CSS · SCSS · JavaScript · TypeScript · React · Angular</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ⚙ backend_runtime:</code><br><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,npm,php&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=nodejs,npm,php&theme=light" />
+        </picture><br>
+        <sub><code>Node.js · npx/npm · PHP</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ 🧠 languages:</code><br><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=light" />
+        </picture><br>
+        <sub><code>C · C++ · Python</code></sub>
+      </td>
+      <td valign="top"><code>├─ 🗄 database:</code><br><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+        </picture><br>
+        <sub><code>MySQL</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ 🐧 systems:</code><br><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch,fedora,linux,bash&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=arch,fedora,linux,bash&theme=light" />
+        </picture><br>
+        <sub><code>Arch Linux · Fedora · Bash</code></sub>
+      </td>
+      <td valign="top"><code>╰─ 🛠 tools:</code><br><br>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+        </picture><br>
+        <sub><code>Git · GitHub · VS Code</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: building&nbsp;&nbsp;·&nbsp;&nbsp;focus: web + móvil + FOSS</code></td>
+    </tr>
+  </tfoot>
+</table>
+
+</div>
 
 ---
 
 ## 🚀 Actualmente aprendiendo
 
-**Diseño de software compatible para múltiples dispositivos y sistemas**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,react&theme=dark" />
-</p>
-
-✨ Explorando nuevas formas de crear software útil  
-✨ Mejorando lógica, arquitectura y diseño  
-✨ Construyendo proyectos con propósito  
+- 🧩 **Diseño de software multiplataforma** — arquitecturas limpias, reutilizables
+- ⚛️ **React** (intermedio → avanzado) · 🅰️ **Angular** (intermedio → avanzado)
+- 🐍 **Python** para scripting, automatización y backend ligero
+- 🎨 **SCSS / arquitectura CSS** — diseño mantenible a escala
+- 🌐 **Node.js / npx** — tooling moderno y empaquetado
 
 ---
 
-### 🎧 Now Playing
+## 🌱 Software Libre & Comunidad
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎶_Now_Playing-TWICE_/_BLACKPINK-ff5fd7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mode-Aesthetic%20Coding-111111?style=for-the-badge&logo=spotify"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Volume-██████████-ff5fd7?style=flat-square"/>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/ID_DE_LA_CANCION" target="_blank">
-    <img src="https://img.shields.io/badge/🎧_Escuchar_en_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-
----
-## 🌐 Idiomas
-
-- 🇪🇸 Español — Nativo
-- 🇺🇸 English — Básico técnico
-- 🇧🇷 Português — Básico
+Promotor activo de la filosofía **FOSS**: transparencia, soberanía tecnológica y colaboración abierta.  
+Uso diario de **Arch Linux** y **Fedora**, con **Hyprland** como window manager en Wayland.
 
 ---
 
-## 📫 Conecta conmigo
+## 🐧 System / Environment
 
 <p align="center">
-  <a href="mailto:j.jazael11@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Hotmail-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/jazael_ontanon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF5FD7?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@srcalvojazaelontanon115?si=V7fvoxTp0Es9YZsC" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🐧 System / Environment
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux"/>
-  <img src="https://img.shields.io/badge/OS-Fedora-294172?style=for-the-badge&logo=fedora"/>
-  <img src="https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge&logo=wayland"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch,fedora,linux,bash,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,fedora,linux,bash,git&theme=light" />
+  </picture>
 </p>
 
 ```bash
 $ neofetch
 
-OS: Arch Linux / Fedora
-WM: Hyprland
-User: SrCalvo
-Shell: bash
-
-$ now_playing
-🎧 TWICE ♡ BLACKPINK
+   user@srcalvo
+   ────────────
+   OS:     Arch Linux / Fedora
+   WM:     Hyprland (Wayland)
+   Shell:  bash
+   Editor: VS Code
+   Status: aesthetic · city-pop · focused
 
 $ system.status
-> aesthetic: dark aether
-> mood: focused but vibing
-> energy: █████████░
+   > aesthetic:  city-pop dusk
+   > mood:       focused but vibing
+   > energy:     █████████░
