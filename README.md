@@ -93,7 +93,7 @@ Uso diario **Arch Linux** y **Fedora**, con **Hyprland** como window manager en 
 
 | TWICE | BLACKPINK |
 | :---: | :---: |
-| <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHljaXJiZ2ZyYXNobzk1ZDlkN2Q5ejNud3dnNDV2NW93cWV0b20yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XSAX47lZNTLYN6vM6o/giphy.gif" alt="TWICE GIF" width="380" /> | <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBuN3BrMXkzeDAzMWNocHU1MW1rZzBwOGV0NXI0OHF2M3J5NGJxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60NMeLohQvljozKDgv/giphy.gif" alt="BLACKPINK GIF" width="380" /> |
+| <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBuN3BrMXkzeDAzMWNocHU1MW1rZzBwOGV0NXI0OHF2M3J5NGJxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60NMeLohQvljozKDgv/giphy.gif" alt="TWICE GIF" width="380" /> | <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHljaXJiZ2ZyYXNobzk1ZDlkN2Q5ejNud3dnNDV2NW93cWV0b20yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XSAX47lZNTLYN6vM6o/giphy.gif" alt="BLACKPINK GIF" width="380" /> |
 | <img src="./assets/twice.jpg" alt="TWICE Wallpaper" width="380" /> | <img src="./assets/blackpink.jpg" alt="BLACKPINK Wallpaper" width="380" /> |
 <img src="https://i.pinimg.com/736x/e7/4b/ac/e74bac0c3f07ef3fd41834e1c5a45119.jpg" alt="TWICE Lovelys" width="380" />
 
