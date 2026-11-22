@@ -1,35 +1,37 @@
 <div align="center">
 
-<!-- ============ HEADER CITY-POP (DARK/LIGHT) ============ -->
+<!-- ============ HEADER CITY-POP (DARK=MORADO / LIGHT=LAVANDA) ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:1a1a2e&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:4A2574&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:FFE5EC&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:FFE5EC&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:D8B8FF&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:D8B8FF&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" alt="Header SrCalvo" />
 </picture>
 
 <!-- ============ TYPING SVG ============ -->
-<a href="https://github.com/{USERNAME}">
+<a href="https://github.com/SrCalvo">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Especialidad+en+Aplicaciones+M%C3%B3viles;Frontend+%7C+Angular+%26+React;Arch+Linux+%2B+Hyprland+%7C+City-Pop+Vibes;BLINK+%26+ONCE+%F0%9F%8E%A7" alt="Typing SVG" />
 </a>
 
 <!-- ============ PROFILE VIEWS ============ -->
-<img src="https://komarev.com/ghpvc/?username={USERNAME}&style=flat&color=F78CA0&label=profile+views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=SrCalvo&style=flat&color=F78CA0&label=profile+views" alt="profile views" />
 
 </div>
 
 ---
 
-<!-- ============ SNAKE ============ -->
+<!-- ============ SNAKE (DARK/LIGHT, VISIBLE) ============ -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/SrCalvo/SrCalvo/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" alt="snake" />
+    srcset="https://raw.githubusercontent.com/SrCalvo/SrCalvo/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SrCalvo/SrCalvo/output/github-contribution-grid-snake.svg"
+       alt="Snake animado de contribuciones de SrCalvo"
+       width="100%" />
 </picture>
 
 </div>
@@ -53,10 +55,10 @@
 
 <div align="center">
 
-<table border="1" cellpadding="14" bgcolor="#17171c">
+<table border="1" cellpadding="14" bgcolor="#2D1B4E">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>srcalvo:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code style="color:#F78CA0">srcalvo:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
