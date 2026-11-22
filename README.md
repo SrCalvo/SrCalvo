@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- ============ HEADER CITY-POP (DARK=MORADO / LIGHT=LAVANDA) ============ -->
+<!-- ============ HEADER CITY-POP (DARK=MORADO VIBRANTE / LIGHT=LAVANDA) ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:4A2574&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:9D4EDD&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:D8B8FF&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:D8B8FF&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" alt="Header SrCalvo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA0,50:C7A4F5,100:9D4EDD&height=250&section=header&text=SrCalvo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Jhonatan%20Jazael%20Onta%C3%B1%C3%B3n%20Ortiz&descAlignY=55&descSize=18" alt="Header SrCalvo" />
 </picture>
 
 <!-- ============ TYPING SVG ============ -->
